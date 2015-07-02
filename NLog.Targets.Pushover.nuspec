@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>NLog.Targets.Pushover</id>
+    <version>1.0.0</version>
+    <title>NLog.Targets.Pushover</title>
+    <authors>RobIII</authors>
+    <owners>RobIII</owners>
+    <licenseUrl>https://github.com/RobThree/NLog.Targets.Pushover/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/RobThree/NLog.Targets.Pushover</projectUrl>
+    <iconUrl>http://riii.me/nlog-targets-pushover-logo</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <summary>NLog.Targets.Pushover is a custom target for NLog enabling you to send logging messages to the Pushover service</summary>
+    <releaseNotes>Initial release</releaseNotes>
+    <language>en-US</language>
+    <tags>nlog pushover</tags>
+    <dependencies>
+      <dependency id="NLog" version="4.0" />
+      <dependency id="NPushover" version="1.1" />
+    </dependencies>
+  </metadata>
+</package>
