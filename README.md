@@ -25,4 +25,4 @@ To use the Pushover target, simply add it as extension in the NLog.config file a
   </rules>
 </nlog>
 ```
-The package is also available through NuGet as "NLog.Targets.Pushover".
+The package is also available through NuGet as [`NLog.Targets.Pushover`](https://www.nuget.org/packages/NLog.Targets.Pushover/1.0.0).
