@@ -26,3 +26,7 @@ To use the Pushover target, simply add it as extension in the NLog.config file a
 </nlog>
 ```
 The package is also available through NuGet as [`NLog.Targets.Pushover`](https://www.nuget.org/packages/NLog.Targets.Pushover/1.0.0).
+
+---
+
+[![Build status](https://ci.appveyor.com/api/projects/status/csboef0ohi97sohb)](https://ci.appveyor.com/project/RobIII/nlog-targets-pushover) <a href="https://www.nuget.org/packages/NLog.Targets.Pushover/"><img src="http://img.shields.io/nuget/v/NLog.Targets.Pushover.svg?style=flat-square" alt="NuGet version" height="18"></a> <a href="https://www.nuget.org/packages/NLog.Targets.Pushover/"><img src="http://img.shields.io/nuget/dt/NLog.Targets.Pushover.svg?style=flat-square" alt="NuGet version" height="18"></a>
